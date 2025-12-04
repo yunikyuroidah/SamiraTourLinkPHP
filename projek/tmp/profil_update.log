@@ -1,0 +1,10 @@
+{"time":"2025-11-25T02:14:41+00:00","sql":"UPDATE profil_travel SET alamat = :alamat, email = :email, hero_image = :hero_image WHERE id = :id","params":{":alamat":"Perum Graha Kota Blok D4 No.16, Suko, Sidoarjo",":email":"samiratravel@gmail.com",":hero_image":"hero_69251110f3d2c.jpg",":id":1}}
+{"result":true}
+{"time":"2025-11-25T02:14:52+00:00","sql":"UPDATE profil_travel SET alamat = :alamat, email = :email, hero_image = :hero_image WHERE id = :id","params":{":alamat":"Perum Graha Kota Blok D4 No.16, Suko, Sidoarjo",":email":"samiratravel@gmail.com",":hero_image":"hero_6925111ca7390.jpg",":id":1}}
+{"result":true}
+{"time":"2025-11-25T02:17:56+00:00","sql":"UPDATE profil_travel SET alamat = :alamat, email = :email, hero_image = :hero_image WHERE id = :id","params":{":alamat":"Perum Graha Kota Blok D4 No.16, Suko, Sidoarjo",":email":"samiratravel@gmail.com",":hero_image":"hero_692511d4b5d86.jpg",":id":1}}
+{"result":true}
+{"rows":[{"id":"profil_id","alamat":"Perum Graha Kota Blok D4 No.16, Suko, Sidoarjo","email":"samiratravel@gmail.com","hero_image":null}]}
+{"time":"2025-11-25T02:18:16+00:00","sql":"UPDATE profil_travel SET alamat = :alamat, email = :email, hero_image = :hero_image WHERE id = :id","params":{":alamat":"Perum Graha Kota Blok D4 No.16, Suko, Sidoarjo",":email":"samiratravel@gmail.com",":hero_image":"hero_692511e873547.jpg",":id":1}}
+{"result":true}
+{"rows":[{"id":"profil_id","alamat":"Perum Graha Kota Blok D4 No.16, Suko, Sidoarjo","email":"samiratravel@gmail.com","hero_image":null}]}

@@ -1,0 +1,174 @@
+[27-Nov-2025 01:34:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'filename' at row 1 in D:\laragon\www\projek\models\GalleryAsset.php:89
+Stack trace:
+#0 D:\laragon\www\projek\models\GalleryAsset.php(89): PDOStatement->execute(Array)
+#1 D:\laragon\www\projek\src\pages\admin-gallery-api.php(128): GalleryAsset->create(Array)
+#2 {main}
+  thrown in D:\laragon\www\projek\models\GalleryAsset.php on line 89
+[27-Nov-2025 01:34:51 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'filename' at row 1 in D:\laragon\www\projek\models\GalleryAsset.php:89
+Stack trace:
+#0 D:\laragon\www\projek\models\GalleryAsset.php(89): PDOStatement->execute(Array)
+#1 D:\laragon\www\projek\src\pages\admin-gallery-api.php(128): GalleryAsset->create(Array)
+#2 {main}
+  thrown in D:\laragon\www\projek\models\GalleryAsset.php on line 89
+[03-Dec-2025 08:22:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'filename' at row 1 in D:\laragon\www\SamiraTravelPHP\projek\models\GalleryAsset.php:142
+Stack trace:
+#0 D:\laragon\www\SamiraTravelPHP\projek\models\GalleryAsset.php(142): PDOStatement->execute(Array)
+#1 D:\laragon\www\SamiraTravelPHP\projek\src\pages\admin-gallery-api.php(210): GalleryAsset->update('13', Array)
+#2 {main}
+  thrown in D:\laragon\www\SamiraTravelPHP\projek\models\GalleryAsset.php on line 142
+[03-Dec-2025 08:23:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'filename' at row 1 in D:\laragon\www\SamiraTravelPHP\projek\models\GalleryAsset.php:142
+Stack trace:
+#0 D:\laragon\www\SamiraTravelPHP\projek\models\GalleryAsset.php(142): PDOStatement->execute(Array)
+#1 D:\laragon\www\SamiraTravelPHP\projek\src\pages\admin-gallery-api.php(210): GalleryAsset->update('13', Array)
+#2 {main}
+  thrown in D:\laragon\www\SamiraTravelPHP\projek\models\GalleryAsset.php on line 142
+[03-Dec-2025 08:24:24 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'filename' at row 1 in D:\laragon\www\SamiraTravelPHP\projek\models\GalleryAsset.php:97
+Stack trace:
+#0 D:\laragon\www\SamiraTravelPHP\projek\models\GalleryAsset.php(97): PDOStatement->execute(Array)
+#1 D:\laragon\www\SamiraTravelPHP\projek\src\pages\admin-gallery-api.php(163): GalleryAsset->create(Array)
+#2 {main}
+  thrown in D:\laragon\www\SamiraTravelPHP\projek\models\GalleryAsset.php on line 97
+[03-Dec-2025 08:24:32 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'filename' at row 1 in D:\laragon\www\SamiraTravelPHP\projek\models\GalleryAsset.php:97
+Stack trace:
+#0 D:\laragon\www\SamiraTravelPHP\projek\models\GalleryAsset.php(97): PDOStatement->execute(Array)
+#1 D:\laragon\www\SamiraTravelPHP\projek\src\pages\admin-gallery-api.php(163): GalleryAsset->create(Array)
+#2 {main}
+  thrown in D:\laragon\www\SamiraTravelPHP\projek\models\GalleryAsset.php on line 97
+[03-Dec-2025 08:25:07 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'filename' at row 1 in D:\laragon\www\SamiraTravelPHP\projek\models\GalleryAsset.php:97
+Stack trace:
+#0 D:\laragon\www\SamiraTravelPHP\projek\models\GalleryAsset.php(97): PDOStatement->execute(Array)
+#1 D:\laragon\www\SamiraTravelPHP\projek\src\pages\admin-gallery-api.php(163): GalleryAsset->create(Array)
+#2 {main}
+  thrown in D:\laragon\www\SamiraTravelPHP\projek\models\GalleryAsset.php on line 97
+[03-Dec-2025 08:25:29 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'filename' at row 1 in D:\laragon\www\SamiraTravelPHP\projek\models\GalleryAsset.php:97
+Stack trace:
+#0 D:\laragon\www\SamiraTravelPHP\projek\models\GalleryAsset.php(97): PDOStatement->execute(Array)
+#1 D:\laragon\www\SamiraTravelPHP\projek\src\pages\admin-gallery-api.php(163): GalleryAsset->create(Array)
+#2 {main}
+  thrown in D:\laragon\www\SamiraTravelPHP\projek\models\GalleryAsset.php on line 97
+[03-Dec-2025 08:25:31 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'filename' at row 1 in D:\laragon\www\SamiraTravelPHP\projek\models\GalleryAsset.php:97
+Stack trace:
+#0 D:\laragon\www\SamiraTravelPHP\projek\models\GalleryAsset.php(97): PDOStatement->execute(Array)
+#1 D:\laragon\www\SamiraTravelPHP\projek\src\pages\admin-gallery-api.php(163): GalleryAsset->create(Array)
+#2 {main}
+  thrown in D:\laragon\www\SamiraTravelPHP\projek\models\GalleryAsset.php on line 97
+[03-Dec-2025 08:26:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'filename' at row 1 in D:\laragon\www\SamiraTravelPHP\projek\models\GalleryAsset.php:97
+Stack trace:
+#0 D:\laragon\www\SamiraTravelPHP\projek\models\GalleryAsset.php(97): PDOStatement->execute(Array)
+#1 D:\laragon\www\SamiraTravelPHP\projek\src\pages\admin-gallery-api.php(163): GalleryAsset->create(Array)
+#2 {main}
+  thrown in D:\laragon\www\SamiraTravelPHP\projek\models\GalleryAsset.php on line 97
+[03-Dec-2025 08:26:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'filename' at row 1 in D:\laragon\www\SamiraTravelPHP\projek\models\GalleryAsset.php:97
+Stack trace:
+#0 D:\laragon\www\SamiraTravelPHP\projek\models\GalleryAsset.php(97): PDOStatement->execute(Array)
+#1 D:\laragon\www\SamiraTravelPHP\projek\src\pages\admin-gallery-api.php(163): GalleryAsset->create(Array)
+#2 {main}
+  thrown in D:\laragon\www\SamiraTravelPHP\projek\models\GalleryAsset.php on line 97
+[03-Dec-2025 09:04:45 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'filename' at row 1 in D:\laragon\www\SamiraTravelPHP\projek\models\GalleryAsset.php:182
+Stack trace:
+#0 D:\laragon\www\SamiraTravelPHP\projek\models\GalleryAsset.php(182): PDOStatement->execute(Array)
+#1 D:\laragon\www\SamiraTravelPHP\projek\src\pages\admin-gallery-api.php(219): GalleryAsset->update('14', Array)
+#2 {main}
+  thrown in D:\laragon\www\SamiraTravelPHP\projek\models\GalleryAsset.php on line 182
+[03-Dec-2025 09:06:55 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'filename' at row 1 in D:\laragon\www\SamiraTravelPHP\projek\models\GalleryAsset.php:182
+Stack trace:
+#0 D:\laragon\www\SamiraTravelPHP\projek\models\GalleryAsset.php(182): PDOStatement->execute(Array)
+#1 D:\laragon\www\SamiraTravelPHP\projek\src\pages\admin-gallery-api.php(216): GalleryAsset->update('14', Array)
+#2 {main}
+  thrown in D:\laragon\www\SamiraTravelPHP\projek\models\GalleryAsset.php on line 182
+[03-Dec-2025 09:07:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'filename' at row 1 in D:\laragon\www\SamiraTravelPHP\projek\models\GalleryAsset.php:182
+Stack trace:
+#0 D:\laragon\www\SamiraTravelPHP\projek\models\GalleryAsset.php(182): PDOStatement->execute(Array)
+#1 D:\laragon\www\SamiraTravelPHP\projek\src\pages\admin-gallery-api.php(216): GalleryAsset->update('14', Array)
+#2 {main}
+  thrown in D:\laragon\www\SamiraTravelPHP\projek\models\GalleryAsset.php on line 182
+[03-Dec-2025 09:07:17 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'filename' at row 1 in D:\laragon\www\SamiraTravelPHP\projek\models\GalleryAsset.php:182
+Stack trace:
+#0 D:\laragon\www\SamiraTravelPHP\projek\models\GalleryAsset.php(182): PDOStatement->execute(Array)
+#1 D:\laragon\www\SamiraTravelPHP\projek\src\pages\admin-gallery-api.php(216): GalleryAsset->update('14', Array)
+#2 {main}
+  thrown in D:\laragon\www\SamiraTravelPHP\projek\models\GalleryAsset.php on line 182
+[03-Dec-2025 09:09:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'filename' at row 1 in D:\laragon\www\SamiraTravelPHP\projek\models\GalleryAsset.php:182
+Stack trace:
+#0 D:\laragon\www\SamiraTravelPHP\projek\models\GalleryAsset.php(182): PDOStatement->execute(Array)
+#1 D:\laragon\www\SamiraTravelPHP\projek\src\pages\admin-gallery-api.php(221): GalleryAsset->update('14', Array)
+#2 {main}
+  thrown in D:\laragon\www\SamiraTravelPHP\projek\models\GalleryAsset.php on line 182
+[03-Dec-2025 09:09:45 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'filename' at row 1 in D:\laragon\www\SamiraTravelPHP\projek\models\GalleryAsset.php:182
+Stack trace:
+#0 D:\laragon\www\SamiraTravelPHP\projek\models\GalleryAsset.php(182): PDOStatement->execute(Array)
+#1 D:\laragon\www\SamiraTravelPHP\projek\src\pages\admin-gallery-api.php(221): GalleryAsset->update('14', Array)
+#2 {main}
+  thrown in D:\laragon\www\SamiraTravelPHP\projek\models\GalleryAsset.php on line 182
+[03-Dec-2025 09:13:49 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in D:\laragon\www\SamiraTravelPHP\projek\models\GalleryAsset.php:126
+Stack trace:
+#0 D:\laragon\www\SamiraTravelPHP\projek\models\GalleryAsset.php(126): PDOStatement->execute(Array)
+#1 D:\laragon\www\SamiraTravelPHP\projek\src\pages\admin-gallery-api.php(174): GalleryAsset->create(Array)
+#2 {main}
+  thrown in D:\laragon\www\SamiraTravelPHP\projek\models\GalleryAsset.php on line 126
+[03-Dec-2025 09:19:00 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in D:\laragon\www\SamiraTravelPHP\projek\models\GalleryAsset.php:126
+Stack trace:
+#0 D:\laragon\www\SamiraTravelPHP\projek\models\GalleryAsset.php(126): PDOStatement->execute(Array)
+#1 D:\laragon\www\SamiraTravelPHP\projek\src\pages\admin-gallery-api.php(193): GalleryAsset->create(Array)
+#2 {main}
+  thrown in D:\laragon\www\SamiraTravelPHP\projek\models\GalleryAsset.php on line 126
+[03-Dec-2025 09:22:50 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1364 Field 'filename' doesn't have a default value in D:\laragon\www\SamiraTravelPHP\projek\models\GalleryAsset.php:170
+Stack trace:
+#0 D:\laragon\www\SamiraTravelPHP\projek\models\GalleryAsset.php(170): PDOStatement->execute(Array)
+#1 D:\laragon\www\SamiraTravelPHP\projek\src\pages\admin-gallery-api.php(193): GalleryAsset->create(Array)
+#2 {main}
+  thrown in D:\laragon\www\SamiraTravelPHP\projek\models\GalleryAsset.php on line 170
+[03-Dec-2025 09:22:52 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1364 Field 'filename' doesn't have a default value in D:\laragon\www\SamiraTravelPHP\projek\models\GalleryAsset.php:170
+Stack trace:
+#0 D:\laragon\www\SamiraTravelPHP\projek\models\GalleryAsset.php(170): PDOStatement->execute(Array)
+#1 D:\laragon\www\SamiraTravelPHP\projek\src\pages\admin-gallery-api.php(193): GalleryAsset->create(Array)
+#2 {main}
+  thrown in D:\laragon\www\SamiraTravelPHP\projek\models\GalleryAsset.php on line 170
+[03-Dec-2025 10:01:28 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'filename' cannot be null in D:\laragon\www\SamiraTravelPHP\projek\models\GalleryAsset.php:240
+Stack trace:
+#0 D:\laragon\www\SamiraTravelPHP\projek\models\GalleryAsset.php(240): PDOStatement->execute(Array)
+#1 D:\laragon\www\SamiraTravelPHP\projek\src\pages\admin-gallery-api.php(281): GalleryAsset->update('12', Array)
+#2 {main}
+  thrown in D:\laragon\www\SamiraTravelPHP\projek\models\GalleryAsset.php on line 240
+[03-Dec-2025 10:01:58 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'filename' cannot be null in D:\laragon\www\SamiraTravelPHP\projek\models\GalleryAsset.php:240
+Stack trace:
+#0 D:\laragon\www\SamiraTravelPHP\projek\models\GalleryAsset.php(240): PDOStatement->execute(Array)
+#1 D:\laragon\www\SamiraTravelPHP\projek\src\pages\admin-gallery-api.php(281): GalleryAsset->update('12', Array)
+#2 {main}
+  thrown in D:\laragon\www\SamiraTravelPHP\projek\models\GalleryAsset.php on line 240
+[03-Dec-2025 10:02:18 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'filename' cannot be null in D:\laragon\www\SamiraTravelPHP\projek\models\GalleryAsset.php:240
+Stack trace:
+#0 D:\laragon\www\SamiraTravelPHP\projek\models\GalleryAsset.php(240): PDOStatement->execute(Array)
+#1 D:\laragon\www\SamiraTravelPHP\projek\src\pages\admin-gallery-api.php(281): GalleryAsset->update('14', Array)
+#2 {main}
+  thrown in D:\laragon\www\SamiraTravelPHP\projek\models\GalleryAsset.php on line 240
+[03-Dec-2025 10:03:24 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'filename' cannot be null in D:\laragon\www\SamiraTravelPHP\projek\models\GalleryAsset.php:240
+Stack trace:
+#0 D:\laragon\www\SamiraTravelPHP\projek\models\GalleryAsset.php(240): PDOStatement->execute(Array)
+#1 D:\laragon\www\SamiraTravelPHP\projek\src\pages\admin-gallery-api.php(281): GalleryAsset->update('16', Array)
+#2 {main}
+  thrown in D:\laragon\www\SamiraTravelPHP\projek\models\GalleryAsset.php on line 240
+[03-Dec-2025 10:06:16 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'filename' cannot be null in D:\laragon\www\SamiraTravelPHP\projek\models\GalleryAsset.php:240
+Stack trace:
+#0 D:\laragon\www\SamiraTravelPHP\projek\models\GalleryAsset.php(240): PDOStatement->execute(Array)
+#1 D:\laragon\www\SamiraTravelPHP\projek\src\pages\admin-gallery-api.php(281): GalleryAsset->update('16', Array)
+#2 {main}
+  thrown in D:\laragon\www\SamiraTravelPHP\projek\models\GalleryAsset.php on line 240
+[03-Dec-2025 10:06:51 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'filename' cannot be null in D:\laragon\www\SamiraTravelPHP\projek\models\GalleryAsset.php:240
+Stack trace:
+#0 D:\laragon\www\SamiraTravelPHP\projek\models\GalleryAsset.php(240): PDOStatement->execute(Array)
+#1 D:\laragon\www\SamiraTravelPHP\projek\src\pages\admin-gallery-api.php(281): GalleryAsset->update('16', Array)
+#2 {main}
+  thrown in D:\laragon\www\SamiraTravelPHP\projek\models\GalleryAsset.php on line 240
+[03-Dec-2025 10:35:42 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "FILEINFO_MIME_TYPE" in D:\laragon\www\SamiraTravelPHP\projek\src\pages\admin-gallery-api.php:202
+Stack trace:
+#0 {main}
+  thrown in D:\laragon\www\SamiraTravelPHP\projek\src\pages\admin-gallery-api.php on line 202
+[03-Dec-2025 10:35:43 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "FILEINFO_MIME_TYPE" in D:\laragon\www\SamiraTravelPHP\projek\src\pages\admin-gallery-api.php:202
+Stack trace:
+#0 {main}
+  thrown in D:\laragon\www\SamiraTravelPHP\projek\src\pages\admin-gallery-api.php on line 202
+[03-Dec-2025 10:35:45 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "FILEINFO_MIME_TYPE" in D:\laragon\www\SamiraTravelPHP\projek\src\pages\admin-gallery-api.php:202
+Stack trace:
+#0 {main}
+  thrown in D:\laragon\www\SamiraTravelPHP\projek\src\pages\admin-gallery-api.php on line 202
