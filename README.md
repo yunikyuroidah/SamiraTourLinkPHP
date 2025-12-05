@@ -1,10 +1,4 @@
-# 🌍 SAMIRATRAVELPHP
-
-Sistem Manajemen Agen Perjalanan berbasis PHP
-
-[![Status Proyek](https://img.shields.io/badge/Status-Aktif-brightgreen.svg)]()
-
-## 📝 Deskripsi Proyek
+## 📝 Deskripsi
 
 SAMIRATRAVELPHP adalah aplikasi web yang dirancang untuk mengelola data perjalanan, paket wisata, dan informasi *tour leader* untuk sebuah agen perjalanan.
 
