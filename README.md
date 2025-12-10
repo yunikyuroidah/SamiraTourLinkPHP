@@ -1,10 +1,10 @@
 ## 📝 Deskripsi
 
-SAMIRATRAVELPHP adalah aplikasi web yang dirancang untuk mengelola data perjalanan, paket wisata, dan informasi *tour leader* untuk sebuah agen perjalanan.
+SAMIRATRAVELPHP adalah aplikasi web yang dirancang untuk mengelola data perjalanan, paket umroh/haji, dan informasi *tour leader* untuk sebuah agen perjalanan.
 
 Fitur utama meliputi:
 * **Manajemen Galeri:** Mengunggah dan mengelola foto-foto perjalanan.
-* **Manajemen Paket:** Mengatur detail paket wisata, harga, dan jadwal.
+* **Manajemen Paket:** Mengatur detail paket umroh/haji, harga, dan jadwal.
 * **Manajemen Profil:** Mengelola profil agen perjalanan dan informasi travel.
 * **Login Admin:** Akses aman untuk administrator sistem.
 
